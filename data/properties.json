@@ -1,21 +1,5 @@
 [
   {
-    "id": "prop-1790649040036",
-    "title": "[급매] 모바일",
-    "serial": "01",
-    "area": "123m2",
-    "address": "춘촌",
-    "price": "100만원",
-    "zone": "ㄱ",
-    "features": "ㅎ",
-    "agent": "랜드세일마트 | 대표: 김철수 | 📞 010-1234-5678",
-    "img1": "data/img/prop-1790649040036_img1_1790649171250.jpg",
-    "img2": "https://placehold.co/400x300/e2e8f0/64748b?text=Photo+2",
-    "img3": "https://placehold.co/400x300/e2e8f0/64748b?text=Photo+3",
-    "img4": "https://placehold.co/800x450/e2e8f0/64748b?text=Location+Map",
-    "comments": []
-  },
-  {
     "id": "prop-1790641119492",
     "title": "[급매] 주말농장부지 매매",
     "serial": "03",
